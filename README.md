@@ -41,6 +41,8 @@
 
 ## Collections
 
+- [v1.32.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.32.0)
+  - 2022/05/01 - [Upgradable Colllections](./reports/collections_05_01_2022.md)
 - [v1.31.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.31.0)
   - 2021/11/10 - [Third Party Registry By Certik](./reports/Decentraland_TPR_Tiers_Certik_10_28_2021.pdf)
   - 2021/11/10 - [Third Party Registry By Pessimistic](./reports/Decentraland_TPR_Pessimistic_11_10_2021.pdf)
@@ -53,6 +55,8 @@
   - 2021/04/26 - [Collection V2 With By Agustin Aguillar](./reports/Decentraland_collections_v2_audit_04_26_2021.pdf)
 - [v1.16.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.16.0)
   - 2020/10/13 - [Collection V2 Secon Iteration By Agustin Aguillar](./reports/Decentraland_Collections_v2_10_13_2020.pdf)
+- [v1.3.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.3.0)
+  - 2020/05/04 - [Collections V2 First Iteration By Agustin Aguillar](./reports/Decentraland_Collections_contract_05_04_2020.pdf)
 - [v1.3.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.3.0)
   - 2020/05/04 - [Collections V2 First Iteration By Agustin Aguillar](./reports/Decentraland_Collections_contract_05_04_2020.pdf)
 
