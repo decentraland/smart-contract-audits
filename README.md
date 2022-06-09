@@ -13,6 +13,7 @@
 ## Estate Registry
 
 - [Deploy 2020/07/17](https://github.com/decentraland/land/releases/tag/Deploy%2F2020-07-17)
+  - 2022/05/28 - [Estate Registry re-audit by Facundo Spagnuolo](./reports/Decentraland_Estates_05_28_2022.md)
   - 2020/06/19 - [Add Minime token for on-chain voting](./reports/Decentraland_LAND_Estate_MINIME_06_19_2020.pdf)
 - [Deploy 2018/08/31](https://github.com/decentraland/land/releases/tag/deploy%2F2018-08-31)
   - 2018/08/22 [Estate Registry by Levelk](./reports/Decentraland_Estates_Audit_08-22-2018)
