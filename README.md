@@ -1,6 +1,22 @@
 # Decentraland Smart Contracts Audits
 
-## LAND Registry
+### Table of Contents
+
+- [Smart Contracts Audits](#smart-contract-audits)
+  - [LAND](#land-registry)
+  - [Estate](#estate-registry)
+  - [Marketplace](#marketplace)
+  - [Bids](#bids)
+  - [Names](#dcl-names)
+  - [Collections](#collections)
+  - [LAND Auction](#land-second-auction)
+  - [PassThrough](#passthrough)
+  - [Burners](#burners)
+- [Well Known Issues](#well-known-issues)
+
+## Smart Contract Audits
+
+### LAND Registry
 
 - [Deploy 2022/03/12](https://github.com/decentraland/land/releases/tag/Deploy%2F2022-03-12)
   - 2022/04/01 - [LANDRegistry By Facundo Spagnuolo](./reports/LANDRegistry_04-01-2022_Spagnuolo.md)
@@ -10,7 +26,7 @@
 - [Deploy 2018/08/31](https://github.com/decentraland/land/releases/tag/deploy%2F2018-08-31)
   - 2018/07/06 - [LANDRegistry By LevelK](./reports/Decentraland_Land_Registry_Audit_07-06-2018_LevelK.pdf)
 
-## Estate Registry
+### Estate Registry
 
 - [Deploy 2020/07/17](https://github.com/decentraland/land/releases/tag/Deploy%2F2020-07-17)
   - 2022/05/28 - [Estate Registry re-audit by Facundo Spagnuolo](./reports/Decentraland_Estates_05_28_2022.md)
@@ -18,14 +34,14 @@
 - [Deploy 2018/08/31](https://github.com/decentraland/land/releases/tag/deploy%2F2018-08-31)
   - 2018/08/22 [Estate Registry by Levelk](./reports/Decentraland_Estates_Audit_08-22-2018)
 
-## Marketplace
+### Marketplace
 
 - [v3.0.0](https://github.com/decentraland/marketplace-contracts/releases/tag/v3.0.0)
   - 2021/12/03 [Marketplace V2 With Meta Tx and Royalties by Certik](./reports/Decentraland_Marketplace_and_Bids_V2_With_Royalties_Certik_12_03_2021.pdf)
 - [v1.0.0](https://github.com/decentraland/marketplace-contracts/releases/tag/1.0.0)
   - 2018/09/28 [Marketplace By LevelK](./reports/Decentraland_Marketplace_V2_Audit_09-28-2018.pdf)
 
-## Bids
+### Bids
 
 - [v2.0.0](https://github.com/decentraland/bid-contract/releases/tag/v2.0.0)
   - 2021/09/20 - [Bids V2 By Quantstamp](./reports/Decentraland_Bids_in_Polygon_and_Collection_Bridges_09_20_2021.pdf)
@@ -33,14 +49,14 @@
 - [v1.0.0](https://github.com/decentraland/bid-contract/releases/tag/v1.0.0)
   - 2019/02/18 - [Bids by Nomic Labs](./reports/Bid_Contract_Audit_Report_02_19_2019.pdf)
 
-## DCL Names
+### DCL Names
 
 - [v2.0.0](https://github.com/decentraland/avatars-contract/releases/tag/v2.0.0)
   - 2020/01/20 - [DCL Names with ENS](./reports/Decentraland_ENS_Avatars_audit_01_20_2020.pdf)
 - [v1.0.0](https://github.com/decentraland/avatars-contract/releases/tag/v1.0.0)
   - 2019/06/03 - [DCL Names](./reports/Decentraland_Names_Audit_Agusin_Aguilar_06_03_2019.pdf)
 
-## Collections
+### Collections
 
 - [v1.32.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.32.0)
   - 2022/05/01 - [Upgradable Colllections](./reports/collections_05_01_2022.md)
@@ -61,19 +77,24 @@
 - [v1.3.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.3.0)
   - 2020/05/04 - [Collections V2 First Iteration By Agustin Aguillar](./reports/Decentraland_Collections_contract_05_04_2020.pdf)
 
-## LAND Second Auction
+### LAND Second Auction
 
 - [v1.0.0](https://github.com/decentraland/land-auction/releases/tag/v1.0.0)
   - 2018/10/12 - [LAND Auction by Agustin Aguilar](./reports/Decentraland_Land_Auction_10-12-2018.pdf)
 
-## PassThrough
+### PassThrough
 
 - [v1.0.0](https://github.com/decentraland/pass-through/releases/tag/v1.0.0)
   - 2019/01/07 - [PassThrough By Agustin Aguilar](./reports/Decentraland_PassThrough_contracts_Agustin_Aguilar_01_07_2019.pdf)
   - 2019/01/15 - [PassThrough By Nomic Labs](./reports/PassThrough_audit_report_nomic_01_15_2019.pdf)
 
-## Burners
+### Burners
 
 - [v1.0.0](https://github.com/decentraland/aux-contracts/releases/tag/v1.0.0)
   - 2019/01/10 - [Marketplace Burner by Nomic Labs](./reports/MarketplaceBurner_audit_report_01_10_2019.pdf)
   - 2019/06/03 - [Marketplace Burner by Agustin Aguilar](./reports/Decentraland_Burner_Contract_audit_06_03_2019.pdf)
+
+## Well Known Issues
+
+- [Smart Contracts](./smart_contracts_well_known_issues.md)
+- [Apps/Websites](./app_well_known_issues.md)
