@@ -46,7 +46,7 @@
 
 - [v2.0.0](https://github.com/decentraland/bid-contract/releases/tag/v2.0.0)
   - 2021/09/20 - [Bids V2 By Quantstamp](./reports/Decentraland_Bids_in_Polygon_and_Collection_Bridges_09_20_2021.pdf)
-  - 2021/12/01 - [Marketplace V2 With Meta Tx and Royalties by Perssimistic](./reports/Marketplace_v2_01_12_2021_by_pessimistic.md)
+  - 2021/12/01 - [Bids V2 With Meta Tx and Royalties by Perssimistic](./reports/Bid_v2_01_12_2021_by_pessimistic.md)
   - 2021/12/03 - [Bids V2 With Meta Tx and Royalties by Certik](./reports/Decentraland_Marketplace_and_Bids_V2_With_Royalties_Certik_12_03_2021.pdf)
 - [v1.0.0](https://github.com/decentraland/bid-contract/releases/tag/v1.0.0)
   - 2019/02/18 - [Bids by Nomic Labs](./reports/Bid_Contract_Audit_Report_02_19_2019.pdf)
