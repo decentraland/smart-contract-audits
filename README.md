@@ -32,20 +32,22 @@
   - 2022/05/28 - [Estate Registry re-audit by Facundo Spagnuolo](./reports/Decentraland_Estates_05_28_2022.md)
   - 2020/06/19 - [Add Minime token for on-chain voting](./reports/Decentraland_LAND_Estate_MINIME_06_19_2020.pdf)
 - [Deploy 2018/08/31](https://github.com/decentraland/land/releases/tag/deploy%2F2018-08-31)
-  - 2018/08/22 [Estate Registry by Levelk](./reports/Decentraland_Estates_Audit_08-22-2018)
+  - 2018/08/22 - [Estate Registry by Levelk](./reports/Decentraland_Estates_Audit_08-22-2018)
 
 ### Marketplace
 
 - [v3.0.0](https://github.com/decentraland/marketplace-contracts/releases/tag/v3.0.0)
-  - 2021/12/03 [Marketplace V2 With Meta Tx and Royalties by Certik](./reports/Decentraland_Marketplace_and_Bids_V2_With_Royalties_Certik_12_03_2021.pdf)
+  - 2021/12/01 - [Marketplace V2 With Meta Tx and Royalties by Perssimistic](./reports/Marketplace_v2_01_12_2021_by_pessimistic.md)
+  - 2021/12/03 - [Marketplace V2 With Meta Tx and Royalties by Certik](./reports/Decentraland_Marketplace_and_Bids_V2_With_Royalties_Certik_12_03_2021.pdf)
 - [v1.0.0](https://github.com/decentraland/marketplace-contracts/releases/tag/1.0.0)
-  - 2018/09/28 [Marketplace By LevelK](./reports/Decentraland_Marketplace_V2_Audit_09-28-2018.pdf)
+  - 2018/09/28 - [Marketplace By LevelK](./reports/Decentraland_Marketplace_V2_Audit_09-28-2018.pdf)
 
 ### Bids
 
 - [v2.0.0](https://github.com/decentraland/bid-contract/releases/tag/v2.0.0)
   - 2021/09/20 - [Bids V2 By Quantstamp](./reports/Decentraland_Bids_in_Polygon_and_Collection_Bridges_09_20_2021.pdf)
-  - 2021/12/03 [Bids V2 With Meta Tx and Royalties by Certik](./reports/Decentraland_Marketplace_and_Bids_V2_With_Royalties_Certik_12_03_2021.pdf)
+  - 2021/12/01 - [Marketplace V2 With Meta Tx and Royalties by Perssimistic](./reports/Marketplace_v2_01_12_2021_by_pessimistic.md)
+  - 2021/12/03 - [Bids V2 With Meta Tx and Royalties by Certik](./reports/Decentraland_Marketplace_and_Bids_V2_With_Royalties_Certik_12_03_2021.pdf)
 - [v1.0.0](https://github.com/decentraland/bid-contract/releases/tag/v1.0.0)
   - 2019/02/18 - [Bids by Nomic Labs](./reports/Bid_Contract_Audit_Report_02_19_2019.pdf)
 
