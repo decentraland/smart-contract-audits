@@ -1,6 +1,6 @@
 # Smart Contracts Well Knonw Issues
 
-- Estate: The getFingerprint function can run out of gas for Estates bigger than 4000 LANDs.
+- LAND & Estate Contracts: The `getFingerprint`, and some function to get assets from the users can run out of gas for Estates bigger than 4000 LANDs and users with a lot of assets. They can use other functions to workaround this.
 - Collections: Missing the ERC165 interface registration.
 - CollectionManager: Possible front-running of MANA being paid when creating a collection. It does not generate an issue because the MANA goes to the DAO and can be returned.
 - Rewards Smart Contract can't support two signatures for the same item at the same time. Also, the whole tx will fail if one item has been already claimed.
