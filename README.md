@@ -12,6 +12,8 @@
   - [LAND Auction](#land-second-auction)
   - [PassThrough](#passthrough)
   - [Burners](#burners)
+  - [Rentals](#rentals)
+  - [Common Contracts](#common-contracts)
 - [Well Known Issues](#well-known-issues)
 
 ## Smart Contract Audits
@@ -95,6 +97,16 @@
 - [v1.0.0](https://github.com/decentraland/aux-contracts/releases/tag/v1.0.0)
   - 2019/01/10 - [Marketplace Burner by Nomic Labs](./reports/MarketplaceBurner_audit_report_01_10_2019.pdf)
   - 2019/06/03 - [Marketplace Burner by Agustin Aguilar](./reports/Decentraland_Burner_Contract_audit_06_03_2019.pdf)
+
+### Rentals
+  - 2022/10/27 - [Rentals by Xinghui Chen](./reports/Rentals_and_Common_Contracts_10_27_2022_Xinghui_Chen.pdf)
+  - 2022/10/05 - [Rentals by Facundo Spagnuolo](./reports/Rentals_10_05_2022_Spagnuolo.md)
+  - 2022/09/30 - [Rentals (Preliminary Report) by Certik](./reports/Rentals_and_Common_Contracts_preliminary_08_25_2022_Certik.pdf)
+
+### Common Contracts
+  - 2022/10/27 - [Common Contracts by Xinghui Chen](./reports/Rentals_and_Common_Contracts_10_27_2022_Xinghui_Chen.pdf)
+  - 2022/10/05 - [Common Contracts by Facundo Spagnuolo](./reports/Common_Contracts_10_05_2022_Spagnuolo.md)
+  - 2022/09/30 - [Common Contracts (Preliminary Report) by Certik](./reports/Rentals_and_Common_Contracts_preliminary_08_25_2022_Certik.pdf)
 
 ## Well Known Issues
 
