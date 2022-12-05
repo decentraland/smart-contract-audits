@@ -100,13 +100,13 @@
 
 ### Rentals
   - 2022/12/04 - [Rentals by Certik](./reports/Rentals_and_Common_Contracts_12_04_2022_Certik.pdf)
-  - 2022/10/27 - [Rentals by Xinghui Chen](./reports/Rentals_and_Common_Contracts_10_27_2022_Xinghui_Chen.pdf)
-  - 2022/10/05 - [Rentals by Facundo Spagnuolo](./reports/Rentals_10_05_2022_Spagnuolo.md)
+  - 2022/10/25 - [Rentals by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
+  - 2022/06/22 - [Rentals by Facundo Spagnuolo](./reports/Rentals_FacundoSpagnuolo_06_22_2022.md)
 
 ### Common Contracts
   - 2022/12/04 - [Common Contracts by Certik](./reports/Rentals_and_Common_Contracts_12_04_2022_Certik.pdf)
-  - 2022/10/27 - [Common Contracts by Xinghui Chen](./reports/Rentals_and_Common_Contracts_10_27_2022_Xinghui_Chen.pdf)
-  - 2022/10/05 - [Common Contracts by Facundo Spagnuolo](./reports/Common_Contracts_10_05_2022_Spagnuolo.md)
+  - 2022/10/25 - [Common Contracts by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
+  - 2022/06/22 - [Common Contracts by Facundo Spagnuolo](./reports/CommonContracts_FacundoSpagnuolo_06_22_2022.md)
 
 ## Well Known Issues
 
