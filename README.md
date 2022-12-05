@@ -99,12 +99,12 @@
   - 2019/06/03 - [Marketplace Burner by Agustin Aguilar](./reports/Decentraland_Burner_Contract_audit_06_03_2019.pdf)
 
 ### Rentals
-  - 2022/12/04 - [Rentals by Certik](./reports/Rentals_and_Common_Contracts_12_04_2022_Certik.pdf)
+  - 2022/12/04 - [Rentals by Certik](./reports/Rentals_And_CommonContracts_Certik_12_04_2022.pdf)
   - 2022/10/25 - [Rentals by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
   - 2022/06/22 - [Rentals by Facundo Spagnuolo](./reports/Rentals_FacundoSpagnuolo_06_22_2022.md)
 
 ### Common Contracts
-  - 2022/12/04 - [Common Contracts by Certik](./reports/Rentals_and_Common_Contracts_12_04_2022_Certik.pdf)
+  - 2022/12/04 - [Common Contracts by Certik](./reports/Rentals_And_CommonContracts_Certik_12_04_2022.pdf)
   - 2022/10/25 - [Common Contracts by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
   - 2022/06/22 - [Common Contracts by Facundo Spagnuolo](./reports/CommonContracts_FacundoSpagnuolo_06_22_2022.md)
 
