@@ -14,6 +14,7 @@
   - [Burners](#burners)
   - [Rentals](#rentals)
   - [Common Contracts](#common-contracts)
+  - [Periodic Token Vesting](#periodic-token-vesting)
 - [Well Known Issues](#well-known-issues)
 
 ## Smart Contract Audits
@@ -107,6 +108,13 @@
   - 2022/10/27 - [Common Contracts by Xinghui Chen](./reports/Rentals_and_Common_Contracts_10_27_2022_Xinghui_Chen.pdf)
   - 2022/10/05 - [Common Contracts by Facundo Spagnuolo](./reports/Common_Contracts_10_05_2022_Spagnuolo.md)
   - 2022/09/30 - [Common Contracts (Preliminary Report) by Certik](./reports/Rentals_and_Common_Contracts_preliminary_08_25_2022_Certik.pdf)
+
+### Periodic Token Vesting
+
+  - 2022/12/05 - [Periodic Token Vesting by Nethermind](./reports/PeriodicTokenVesting_Nethermind_Final.pdf)
+  - 2022/12/02 - [Periodic Token Vesting by Certik](./reports/PeriodicTokenVesting_Certik_Final.pdf)
+  - 2022/12/02 - [Periodic Token Vesting by Xinghui Chen](./reports/PeriodicTokenVesting_XinghuiChen_Final.pdf)
+  - 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_Final.pdf)
 
 ## Well Known Issues
 
