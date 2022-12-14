@@ -114,7 +114,7 @@
   - 2022/12/05 - [Periodic Token Vesting by Nethermind](./reports/PeriodicTokenVesting_Nethermind_12_05_2022.pdf)
   - 2022/12/02 - [Periodic Token Vesting by Certik](./reports/PeriodicTokenVesting_Certik_12_02_2022.pdf)
   - 2022/12/02 - [Periodic Token Vesting by Xinghui Chen](./reports/PeriodicTokenVesting_XinghuiChen_12_02_2022.pdf)
-  - 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_11_10_2022.pdf)
+  - 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_11_10_2022.md)
 
 ## Well Known Issues
 
