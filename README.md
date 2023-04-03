@@ -56,6 +56,8 @@
 
 ### DCL Names
 
+- [v2.1.0](https://github.com/decentraland/avatars-contract/releases/tag/v2.1.0)
+  - 2023/03/03 - [DCL Controller V2 by Facundo Spagnuolo](./reports/DCLControllerV2_FacundoSpagnuolo_03_03_2023.pdf)
 - [v2.0.0](https://github.com/decentraland/avatars-contract/releases/tag/v2.0.0)
   - 2020/01/20 - [DCL Names with ENS](./reports/Decentraland_ENS_Avatars_audit_01_20_2020.pdf)
 - [v1.0.0](https://github.com/decentraland/avatars-contract/releases/tag/v1.0.0)
