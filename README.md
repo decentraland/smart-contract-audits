@@ -118,6 +118,12 @@
   - 2022/12/02 - [Periodic Token Vesting by Xinghui Chen](./reports/PeriodicTokenVesting_XinghuiChen_12_02_2022.pdf)
   - 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_11_10_2022.md)
 
+### Offchain Marketplace
+
+  - 2024/09/07 - [Offchain Marketplace by XinghuiChen](./reports/OffchainMarketplace_XinghuiChen_07_09_2024.pdf)
+  - 2024/07/04 - [Offchain Marketplace by Facundo Spagnuolo](./reports/OffchainMarketplace_FacundoSpagnuolo_04_07_2024.pdf)
+  - 2024/08/16 - [Offchain Marketplace by Certik](./reports/OffchainMarketplace_Certik_16_08_2024.pdf)
+
 ## Well Known Issues
 
 - [Smart Contracts](./smart_contracts_well_known_issues.md)
