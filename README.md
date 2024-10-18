@@ -37,6 +37,13 @@
 - [Deploy 2018/08/31](https://github.com/decentraland/land/releases/tag/deploy%2F2018-08-31)
   - 2018/08/22 - [Estate Registry by Levelk](./reports/Decentraland_Estates_Audit_08-22-2018)
 
+### Offchain Marketplace
+
+- [v1.0.0](https://github.com/decentraland/offchain-marketplace-contract/releases/tag/v1.0)
+  - 2024/07/24 - [Offchain marketplace by Facundo Spagnuolo ](./reports/offchain_marketplace_FS.pdf)
+  - 2024/08/16 - [Offchain marketplace by Certik](./reports/offchain_marketplace_certik.pdf)
+  - 2024/09/07 - [Offchain marketplace by Xinghui Che](./reports/offchain_marketplace_0xbitcoin.pdf)
+
 ### Marketplace
 
 - [v3.0.0](https://github.com/decentraland/marketplace-contracts/releases/tag/v3.0.0)
@@ -65,6 +72,8 @@
 
 ### Collections
 
+- [v2.0.0](https://github.com/decentraland/wearables-contracts/releases/tag/v2.0.0)
+  - 2024/09/24 - [Community Third Party Registry By Facundo Spagnuolo](./reports/Decentraland_TPR_v3_FS.pdf)
 - [v1.32.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.32.0)
   - 2022/05/01 - [Upgradable Colllections](./reports/collections_05_01_2022.md)
 - [v1.31.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.31.0)
@@ -102,21 +111,23 @@
   - 2019/06/03 - [Marketplace Burner by Agustin Aguilar](./reports/Decentraland_Burner_Contract_audit_06_03_2019.pdf)
 
 ### Rentals
-  - 2022/12/04 - [Rentals by Certik](./reports/Rentals_And_CommonContracts_Certik_12_04_2022.pdf)
-  - 2022/10/25 - [Rentals by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
-  - 2022/06/22 - [Rentals by Facundo Spagnuolo](./reports/Rentals_FacundoSpagnuolo_10_05_2022.md)
+
+- 2022/12/04 - [Rentals by Certik](./reports/Rentals_And_CommonContracts_Certik_12_04_2022.pdf)
+- 2022/10/25 - [Rentals by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
+- 2022/06/22 - [Rentals by Facundo Spagnuolo](./reports/Rentals_FacundoSpagnuolo_10_05_2022.md)
 
 ### Common Contracts
-  - 2022/12/04 - [Common Contracts by Certik](./reports/Rentals_And_CommonContracts_Certik_12_04_2022.pdf)
-  - 2022/10/25 - [Common Contracts by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
-  - 2022/06/22 - [Common Contracts by Facundo Spagnuolo](./reports/CommonContracts_FacundoSpagnuolo_10_05_2022.md)
+
+- 2022/12/04 - [Common Contracts by Certik](./reports/Rentals_And_CommonContracts_Certik_12_04_2022.pdf)
+- 2022/10/25 - [Common Contracts by Xinghui Chen](./reports/Rentals_And_CommonContracts_XinghuiChen_10_25_2022.pdf)
+- 2022/06/22 - [Common Contracts by Facundo Spagnuolo](./reports/CommonContracts_FacundoSpagnuolo_10_05_2022.md)
 
 ### Periodic Token Vesting
 
-  - 2022/12/05 - [Periodic Token Vesting by Nethermind](./reports/PeriodicTokenVesting_Nethermind_12_05_2022.pdf)
-  - 2022/12/02 - [Periodic Token Vesting by Certik](./reports/PeriodicTokenVesting_Certik_12_02_2022.pdf)
-  - 2022/12/02 - [Periodic Token Vesting by Xinghui Chen](./reports/PeriodicTokenVesting_XinghuiChen_12_02_2022.pdf)
-  - 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_11_10_2022.md)
+- 2022/12/05 - [Periodic Token Vesting by Nethermind](./reports/PeriodicTokenVesting_Nethermind_12_05_2022.pdf)
+- 2022/12/02 - [Periodic Token Vesting by Certik](./reports/PeriodicTokenVesting_Certik_12_02_2022.pdf)
+- 2022/12/02 - [Periodic Token Vesting by Xinghui Chen](./reports/PeriodicTokenVesting_XinghuiChen_12_02_2022.pdf)
+- 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_11_10_2022.md)
 
 ## Well Known Issues
 
