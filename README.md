@@ -5,6 +5,7 @@
 - [Smart Contracts Audits](#smart-contract-audits)
   - [LAND](#land-registry)
   - [Estate](#estate-registry)
+  - [Offchain Marketplace](#offchain-marketplace)
   - [Marketplace](#marketplace)
   - [Bids](#bids)
   - [Names](#dcl-names)
