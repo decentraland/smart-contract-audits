@@ -16,6 +16,7 @@
   - [Rentals](#rentals)
   - [Common Contracts](#common-contracts)
   - [Periodic Token Vesting](#periodic-token-vesting)
+  - [Credits Manager](#credits-manager)
 - [Well Known Issues](#well-known-issues)
 
 ## Smart Contract Audits
@@ -129,6 +130,12 @@
 - 2022/12/02 - [Periodic Token Vesting by Certik](./reports/PeriodicTokenVesting_Certik_12_02_2022.pdf)
 - 2022/12/02 - [Periodic Token Vesting by Xinghui Chen](./reports/PeriodicTokenVesting_XinghuiChen_12_02_2022.pdf)
 - 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_11_10_2022.md)
+
+### Credits Manager
+- [v1.1.0](https://github.com/decentraland/offchain-marketplace-contract/releases/tag/v1.1.0)
+- 2025/16/05 - [Credits Manager by Xinghui Chen](./reports/Credits_Manager_final_report_XinghuiChen_05_16_2025.pdf)
+- 2025/29/04 - [Credits Manager by OpenZeppelin](./reports/CreditsManagerPolygon_Audit_openzeppelin_04_29_2025.pdf)
+- 2025/01/04 - [Credits Manager by Facundo Spagnuolo](./reports/Credits_Manager_FacundoSpagnuolo_04_01_2025.pdf)
 
 ## Well Known Issues
 
