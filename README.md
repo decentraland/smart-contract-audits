@@ -137,6 +137,12 @@
 - 2025/29/04 - [Credits Manager by OpenZeppelin](./reports/CreditsManagerPolygon_Audit_openzeppelin_04_29_2025.pdf)
 - 2025/01/04 - [Credits Manager by Facundo Spagnuolo](./reports/Credits_Manager_FacundoSpagnuolo_04_01_2025.pdf)
 
+### Offchain Marketplace
+
+  - 2024/09/07 - [Offchain Marketplace by XinghuiChen](./reports/OffchainMarketplace_XinghuiChen_07_09_2024.pdf)
+  - 2024/07/04 - [Offchain Marketplace by Facundo Spagnuolo](./reports/OffchainMarketplace_FacundoSpagnuolo_04_07_2024.pdf)
+  - 2024/08/16 - [Offchain Marketplace by Certik](./reports/OffchainMarketplace_Certik_16_08_2024.pdf)
+
 ## Well Known Issues
 
 - [Smart Contracts](./smart_contracts_well_known_issues.md)
