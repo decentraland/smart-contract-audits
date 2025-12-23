@@ -76,6 +76,7 @@
 
 - [v2.0.0](https://github.com/decentraland/wearables-contracts/releases/tag/v2.0.0)
   - 2024/09/24 - [Community Third Party Registry By Facundo Spagnuolo](./reports/Decentraland_TPR_v3_FS.pdf)
+- [Wearables Audit Report](./reports/decentraland_wearables_report.md)
 - [v1.32.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.32.0)
   - 2022/05/01 - [Upgradable Colllections](./reports/collections_05_01_2022.md)
 - [v1.31.0](https://github.com/decentraland/wearables-contracts/releases/tag/v1.31.0)
@@ -132,6 +133,10 @@
 - 2022/11/10 - [Periodic Token Vesting by Facundo Spagnuolo](./reports/PeriodicTokenVesting_FacundoSpagnuolo_11_10_2022.md)
 
 ### Credits Manager
+- [v2.0.0](https://github.com/decentraland/offchain-marketplace-contract/releases/tag/v2.0)
+  - [Name Executor by Facundo Spagnuolo](./reports/name_executor_fs.pdf)
+  - [Name Executor by Xinghui Chen](./reports/name_executor_0x.pdf)
+  - [Name Executor By Fernando Zavallia](./reports/name_executor_fz.pdf)
 - [v1.1.0](https://github.com/decentraland/offchain-marketplace-contract/releases/tag/v1.1.0)
 - 2025/16/05 - [Credits Manager by Xinghui Chen](./reports/Credits_Manager_final_report_XinghuiChen_05_16_2025.pdf)
 - 2025/29/04 - [Credits Manager by OpenZeppelin](./reports/CreditsManagerPolygon_Audit_openzeppelin_04_29_2025.pdf)
