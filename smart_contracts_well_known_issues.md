@@ -18,4 +18,8 @@
 
 - TokenWrapper and TokenManager Aragon's apps allow anyone with balance to call any not blacklisted smart contract. This makes things like the token escape hatch useless. Anyone can move tokens only if they are sent by mistake.
 
+# Off-Chain Marketplace Smart Contract
 
+- Smart-contract wallets (ERC-1271 signers, e.g. Safe, Coinbase Smart Wallet, account-abstraction accounts) are not supported. Listings signed by these wallets are rejected by the marketplace backend and will not be indexed. Users must sign with an externally-owned account (EOA).
+- Because of the above, meta-transactions are also not supported for smart-contract wallets.
+- Cancellation and usage accounting are keyed by the hash of the raw signature bytes. This is safe for EOA signatures because ECDSA enforces a canonical 65-byte encoding. Smart-contract wallets, however, validate signatures through their own fallback handlers, which commonly accept multiple valid byte representations of the same signed authorization (for example, a signature and the same signature with arbitrary trailing bytes appended both pass validation). Under those conditions, the marketplace's raw-bytes accounting would allow alternate encodings to sidestep a cancellation or a single-use limit. This is the underlying reason smart-contract signers are unsupported. A contract-level fix keying both by the EIP-712 digest is in development and will ship as a redeploy.
